@@ -10,19 +10,6 @@ This Flutter project showcases the implementation of platform channels to intera
 
 ![Screenshot 1](/screenshots/screenshot_1.png)
 
-## Getting Started
-
-To run this project, follow these steps:
-
-1. Make sure you have Flutter installed. If not, you can download it from the official website: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-
-2. Clone this repository:
-    ```git clone https://github.com/nvtanhh/flutter-channel-demo.git``
-3. Navigate to the project directory:
-    ```cd flutter-channel-demo```
-4. Run the app:
-    ```flutter run```
-
 ## How It Works
 
 The main Flutter code resides in `lib/main.dart`. It creates a simple app with buttons to trigger various native operations.
